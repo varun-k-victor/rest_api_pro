@@ -1,0 +1,5 @@
+db.sqlite3
+rest_api_pro/__pycache__
+rest_api_pro/settings.py
+api/migrations
+api/__pycache__
